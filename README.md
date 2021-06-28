@@ -5,10 +5,10 @@ Followed [the A-Gem paper](https://arxiv.org/abs/1812.00420), the model is set t
 
 The curves of averge accuracy on 10 tasks are showed as follows.
 
-![Avg Acc](https://github.com/QiaoZhongzheng/EWC-sample-PMNIST/blob/test/saved/images/avg_acc_curves.png?raw=true)
+![Avg Acc](https://github.com/QiaoZhongzheng/EWC-sample-PMNIST/blob/main/saved/images/avg_acc_curves.png)
 
 Compare the accuracy curves of SFT with EWC,lambda=10:
 
-![SFT](https://github.com/QiaoZhongzheng/EWC-sample-PMNIST/blob/test/saved/images/SFT.png)
+![SFT](https://github.com/QiaoZhongzheng/EWC-sample-PMNIST/blob/main/saved/images/SFT.png)
 
-![EWC_10](https://github.com/QiaoZhongzheng/EWC-sample-PMNIST/blob/test/saved/images/EWC_10.png)
+![EWC_10](https://github.com/QiaoZhongzheng/EWC-sample-PMNIST/blob/main/saved/images/EWC_10.png)
